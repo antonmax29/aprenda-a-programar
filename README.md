@@ -7,13 +7,13 @@
 :technologist: mao na massa
 
 ```
- `pwd` imprime na tela o diretorio atual
- `ls` lista diretorio atual
- `mkdir tarefa-dia-1` cria o diretorio tarefa-dia-1
- `touch resumo-dia-1` cria o arquivo resumo-dia-1.md
- `mkdir tarefa-dia-2` cria o diretorio tarefa-dia-2
- `touch index.html` cria o arquivo index.html
- `for i in{1..4}; do touch pratica-${i}.js; done` cria os arquivos pratica-1.js ate pratica-4.js por meio de iteracao.
+- `pwd` imprime na tela o diretorio atual
+- `ls` lista diretorio atual
+- `mkdir tarefa-dia-1` cria o diretorio tarefa-dia-1
+- `touch resumo-dia-1` cria o arquivo resumo-dia-1.md
+- `mkdir tarefa-dia-2` cria o diretorio tarefa-dia-2
+- `touch index.html` cria o arquivo index.html
+- `for i in{1..4}; do touch pratica-${i}.js; done` cria os arquivos pratica-1.js ate pratica-4.js por meio de iteracao.
 
 📦 aprenda-a-programar
  ┗ 📂 tarefa-dia-1
@@ -25,5 +25,10 @@
    ┣ 📜 pratica-3.js
    ┗ 📜 pratica-4.js
 ```
+### atividades concluidas:
+
+- [x]  tarefa-dia-1 :ok_hand:
+- [x]  tarefa-dia-2 :ok_hand:
+- [ ]  tarefa-dia-3
 
 

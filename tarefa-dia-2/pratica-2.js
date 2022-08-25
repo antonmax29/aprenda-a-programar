@@ -81,4 +81,4 @@ let e = "Nome"
 if (typeof(e) == 'string') {
     console.log("Verdade! O tipo de dado da variável 'e' é uma string");
 } else {
-    console.log("Falso! O tipo de dado da variável 'e' não é uma string");
+    console.log("Falso! O tipo de dado da variável 'e' não é uma string");}
